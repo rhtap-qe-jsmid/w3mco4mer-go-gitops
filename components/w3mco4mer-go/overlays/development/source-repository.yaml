@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w3mco4mer-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/w3mco4mer-go
